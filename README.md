@@ -1,4 +1,4 @@
-# Weather App with Multi-Language Support
+# Weather App (with Multi-Language Interface)
 
 ## About the Project
 
