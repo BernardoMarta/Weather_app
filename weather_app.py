@@ -32,7 +32,7 @@ messages = {
 }
 
 #constants
-api_key = "insert your api key"
+api_key = "69838aec6b6172080b855b05971723fc"
 
 def main():
     title0 = 'Weather App'
